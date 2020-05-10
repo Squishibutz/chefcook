@@ -1,0 +1,8 @@
+{
+    "name": "chefcook",
+    "description": "chefcook Guido's recipes",
+    "image": "roperzh/heroku-buildpack-hugo",
+    "repository": "https://github.com/Squishibutz/chefcook",
+    "keywords": ["go","hugo"]
+  }
+  
