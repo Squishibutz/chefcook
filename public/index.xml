@@ -1,0 +1,24 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Chefcook Guido&#39;s recipes</title>
+        <link>https://chefcook.dokku.sgui.de/</link>
+        <description>Chefcook Guido&#39;s recipes</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 10 May 2020 20:28:17 &#43;0200</lastBuildDate><atom:link href="https://chefcook.dokku.sgui.de/" rel="self" type="application/rss+xml" /><item>
+    <title>Pizza</title>
+    <link>https://chefcook.dokku.sgui.de/posts/pizza/</link>
+    <pubDate>Sun, 10 May 2020 20:28:17 &#43;0200</pubDate>
+    <author>Author</author>
+    <guid>https://chefcook.dokku.sgui.de/posts/pizza/</guid>
+    <description><![CDATA[Pizza Ingredients Dough
+ 500g flour 330ml water 12g yeist 10g salt dash of sugar  Sauce
+ Can of tomatoes (Mutti Pulpo) Dash olive oil 5g salt Pinch oregano Pinch garlic powder  Toppings
+ driest Mozarella you can find (250g) 20g parmesan  Make the dough &hellip;]]></description>
+</item><item>
+    <title>First_post</title>
+    <link>https://chefcook.dokku.sgui.de/posts/first_post/</link>
+    <pubDate>Sun, 10 May 2020 20:22:28 &#43;0200</pubDate>
+    <author>Author</author>
+    <guid>https://chefcook.dokku.sgui.de/posts/first_post/</guid>
+    <description><![CDATA[]]></description>
+</item></channel>
+</rss>
