@@ -5,6 +5,8 @@ draft: false
 ---
 # Pizza 
 
+![Pizza](/static/pizza.jpeg)
+
 ## Ingredients
 
 **Dough**
